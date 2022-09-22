@@ -28,7 +28,7 @@
     Qns 6. Write a python program to create a function that finds a maximum of four numbers.
 
     Ans.
-![image 6](./assets/3.PNG)
+![image 6](./assets/6.PNG)
 
     Qns 7. Write a python program to sum all the numbers in a list.
 
